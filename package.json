@@ -5,6 +5,9 @@
   "author": "Nicolas Blanco <nicolasblancodev@gmail.com>",
   "license": "MIT",
   "private": false,
+  "scripts": {
+    "dev": "nodemon practica.js"
+  },
   "devDependencies": {
     "nodemon": "^3.1.7"
   }
