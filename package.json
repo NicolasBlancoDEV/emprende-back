@@ -6,7 +6,8 @@
   "license": "MIT",
   "private": false,
   "scripts": {
-    "dev": "nodemon practica.js"
+    "dev": "nodemon practica.js",
+    "start": "node practica.js"
   },
   "devDependencies": {
     "nodemon": "^3.1.7"
